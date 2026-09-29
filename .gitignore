@@ -1,0 +1,19 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Editor / IDE metadata
+.vscode/
+.idea/
+
+# Python cache if local tooling is added
+__pycache__/
+*.py[cod]
+
+# Do not ignore evidence or submission files required/used for the lab.

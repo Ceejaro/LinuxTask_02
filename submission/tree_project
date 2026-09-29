@@ -1,0 +1,13 @@
+project
+├── backup
+│   ├── install.sh
+│   └── report.txt
+├── bin
+│   └── classified.txt
+├── docs
+│   └── report.txt
+└── scripts
+    ├── install.sh
+    └── report.txt
+
+5 directories, 6 files

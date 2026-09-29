@@ -1,0 +1,7 @@
+[PASTE YOUR ACTUAL OUTPUT FROM:
+
+tree project
+
+HERE]
+
+Do not invent or manually manufacture the directory listing.
